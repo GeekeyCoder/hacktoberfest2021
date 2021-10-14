@@ -1,0 +1,18 @@
+{% if page.title == "profile" %}
+    {% assign showHeader = true %}
+{% endif %}
+
+{% if showHeader == true %}
+    <header class="header-home">
+        <span class="link">
+            <img class="selfie" alt="{{ page.name }}" src="{% if page.picture %}{{ page.picture }}{% else %}{{ site.default-image }}{% endif %}" />
+        </span>
+
+        <h1 class="title">{{ page.name }}</h1>
+        <!-- <h2 class="description">
+            {{ site.semester }} Semester, {{ site.branch }}
+        </h2> -->
+
+        {% include social-links.html %}
+    </header>
+{% endif %}
