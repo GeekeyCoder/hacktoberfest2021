@@ -11,15 +11,15 @@ name: Jatin Singh
 
 # Optional, atleast 2 recommended
 email: jsgautam697@gmail.com
-google: <Your Google+ profile>
-github: <Your GitHub profile>
-youtube: <Your YouTube profile>
-twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+google: https://www.google.co.in
+github: https://github.com/jsgautam
+youtube: https://www.youtube.com/
+twitter: https://www.twitter.com/
+linkedin: https://www.linkedin.com/
+instagram: https://www.instagram.com/jatinsingh287
 
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://avatars.githubusercontent.com/u/44005945?v=4
 ---
