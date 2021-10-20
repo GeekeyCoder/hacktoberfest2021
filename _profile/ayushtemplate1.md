@@ -23,9 +23,9 @@ spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: https://www.linkedin.com/in/ayush-goel-63107a21b/
-instagram: <Your Instagram profile>
+instagram: https://www.instagram.com/ayush_go3l/
 pinterest: <Your Pinterest profile>
-stackoverflow: <Your StackOverflow profile>
+stackoverflow: https://stackoverflow.com/users/17202979/ayush-goel?tab=profile
 
 # Optional
 # Upload the image to imgur and
