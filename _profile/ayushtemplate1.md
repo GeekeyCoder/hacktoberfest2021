@@ -10,6 +10,7 @@ title: profile
 name: Ayush Goel
 
 # Optional, atleast 2 recommended
+email: geekycoder886@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
