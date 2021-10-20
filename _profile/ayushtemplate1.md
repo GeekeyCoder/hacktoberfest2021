@@ -30,5 +30,5 @@ stackoverflow: https://stackoverflow.com/users/17202979/ayush-goel?tab=profile
 # Optional
 # Upload the image to imgur and
 # paste the direct link to image
-picture: <Link to your image>
+picture: https://avatars.githubusercontent.com/u/91782997?v=4
 ---
