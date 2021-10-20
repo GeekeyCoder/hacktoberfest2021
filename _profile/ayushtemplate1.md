@@ -10,7 +10,7 @@ title: profile
 name: Ayush Goel
 
 # Optional, atleast 2 recommended
-email: <Your email address>
+email: geekycoder886@gmail.com
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
@@ -22,10 +22,10 @@ lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+linkedin: https://www.linkedin.com/in/ayush-goel-63107a21b/
+instagram: https://www.instagram.com/ayush_go3l/
 pinterest: <Your Pinterest profile>
-stackoverflow: <Your StackOverflow profile>
+stackoverflow: https://stackoverflow.com/users/17202979/ayush-goel?tab=profile
 
 # Optional
 # Upload the image to imgur and
