@@ -10,7 +10,6 @@ title: profile
 name: Ayush Goel
 
 # Optional, atleast 2 recommended
-email: <Your email address>
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
