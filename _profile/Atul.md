@@ -22,7 +22,7 @@ lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-linkedin: <Your LinkedIn profile>
+linkedin: https://www.linkedin.com/in/atul2002
 instagram: https://www.instagram.com/atulchaudhary5631
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
