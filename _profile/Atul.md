@@ -10,11 +10,7 @@ title: profile
 name: Atul
 
 # Optional, atleast 2 recommended
-
 email: atul831897@gmail.com
-
-
-
 quora: <Your Quora profile>
 vimeo: <Your Vimeo profile>
 reddit: <Your reddit profile>
@@ -27,7 +23,7 @@ spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
 linkedin: <Your LinkedIn profile>
-instagram: <Your Instagram profile>
+instagram: https://www.instagram.com/atulchaudhary5631
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
 
