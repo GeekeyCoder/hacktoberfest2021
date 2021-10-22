@@ -22,8 +22,8 @@ lastfm: <Your lastfm profile>
 spotify: <Your Spotify profile>
 youtube: <Your YouTube profile>
 twitter: <Your Twitter profile>
-linkedin: https://www.linkedin.com/in/atul2002?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxcZbLJNYR4yA6Jc58hgbxg%3D%3D
-instagram: https://www.instagram.com/atulchaudhary5631?r=nametag
+linkedin: https://www.linkedin.com/in/atul2002
+instagram: https://www.instagram.com/atulchaudhary5631
 pinterest: <Your Pinterest profile>
 stackoverflow: <Your StackOverflow profile>
 
